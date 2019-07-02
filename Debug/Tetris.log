@@ -1,0 +1,15 @@
+﻿  TetrisGame.cpp
+  Square.cpp
+  Skew.cpp
+  Shape.cpp
+  Pyramid.cpp
+  Point.cpp
+  Menu.cpp
+  Main.cpp
+  Line.cpp
+  Joker.cpp
+  Gotoxy.cpp
+  Gamma.cpp
+  Bomb.cpp
+  Generating Code...
+  Tetris.vcxproj -> C:\Users\Yaniv\Desktop\GitHub\Tetris - C++ Project\Debug\Tetris.exe
